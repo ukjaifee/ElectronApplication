@@ -9,8 +9,8 @@ class SearchWidgetComponent(AbstractComponent, BaseClass):
     def __init__(self, driver):
         super().__init__(driver)
 
-    # searchBox = (By.XPATH, "//input[@name='q']")
-    userEmail = (By.CSS_SELECTOR, "input#signup_email")
+    searchBox = (By.XPATH, "//input[@name='q']")
+    #userEmail = (By.CSS_SELECTOR, "input#signup_email")
 
     def is_Displayed(self):
         flag = self.is_visible(SearchWidgetComponent.searchBox)

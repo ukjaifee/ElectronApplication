@@ -1,0 +1,77 @@
+2021-12-13 19:13:33,612: INFO :check_welcome_checkbox: Verifying the welcome checkbox is selected 
+2021-12-13 19:13:33,953: INFO :change_atom_theme: Clicking the choose theme button 
+2021-12-13 19:13:34,088: INFO :change_atom_theme: Clicking the open theme picker button 
+2021-12-13 19:13:34,122: INFO :change_atom_theme: Click the select theme dropdown 
+2021-12-13 19:13:34,196: INFO :change_atom_theme: Select a theme 
+2021-12-13 20:03:00,078: INFO :check_welcome_checkbox: Verifying the welcome checkbox is selected 
+2021-12-13 20:03:00,109: INFO :change_atom_theme: Clicking the choose theme button 
+2021-12-13 20:03:00,253: INFO :change_atom_theme: Clicking the open theme picker button 
+2021-12-13 20:03:00,298: INFO :change_atom_theme: Click the select theme dropdown 
+2021-12-13 20:03:00,375: INFO :change_atom_theme: Select a theme 
+2021-12-13 20:03:37,935: INFO :check_welcome_checkbox: Verifying the welcome checkbox is selected 
+2021-12-13 20:03:37,969: INFO :change_atom_theme: Clicking the choose theme button 
+2021-12-13 20:03:38,106: INFO :change_atom_theme: Clicking the open theme picker button 
+2021-12-13 20:03:38,144: INFO :change_atom_theme: Click the select theme dropdown 
+2021-12-13 20:03:38,207: INFO :change_atom_theme: Select a theme 
+2021-12-13 20:06:37,807: INFO :check_welcome_checkbox: Verifying the welcome checkbox is selected 
+2021-12-13 20:06:38,161: INFO :change_atom_theme: Clicking the choose theme button 
+2021-12-13 20:06:38,294: INFO :change_atom_theme: Clicking the open theme picker button 
+2021-12-13 20:06:38,327: INFO :change_atom_theme: Click the select theme dropdown 
+2021-12-13 20:06:38,386: INFO :change_atom_theme: Select a theme 
+2021-12-13 20:08:27,340: INFO :check_welcome_checkbox: Verifying the welcome checkbox is selected 
+2021-12-13 20:08:27,379: INFO :change_atom_theme: Clicking the choose theme button 
+2021-12-13 20:08:27,526: INFO :change_atom_theme: Clicking the open theme picker button 
+2021-12-13 20:08:27,565: INFO :change_atom_theme: Click the select theme dropdown 
+2021-12-13 20:08:27,625: INFO :change_atom_theme: Select a theme 
+2021-12-13 20:08:44,203: INFO :check_welcome_checkbox: Verifying the welcome checkbox is selected 
+2021-12-13 20:08:44,231: INFO :change_atom_theme: Clicking the choose theme button 
+2021-12-13 20:09:01,244: INFO :check_welcome_checkbox: Verifying the welcome checkbox is selected 
+2021-12-13 20:09:01,278: INFO :change_atom_theme: Clicking the choose theme button 
+2021-12-13 20:09:01,426: INFO :change_atom_theme: Clicking the open theme picker button 
+2021-12-13 20:09:01,458: INFO :change_atom_theme: Click the select theme dropdown 
+2021-12-13 20:09:01,539: INFO :change_atom_theme: Select a theme 
+2021-12-13 20:09:21,715: INFO :check_welcome_checkbox: Verifying the welcome checkbox is selected 
+2021-12-13 20:09:21,744: INFO :change_atom_theme: Clicking the choose theme button 
+2021-12-13 20:09:21,897: INFO :change_atom_theme: Clicking the open theme picker button 
+2021-12-13 20:09:21,935: INFO :change_atom_theme: Click the select theme dropdown 
+2021-12-13 20:09:22,012: INFO :change_atom_theme: Select a theme 
+2021-12-13 20:09:38,571: INFO :check_welcome_checkbox: Verifying the welcome checkbox is selected 
+2021-12-13 20:09:38,601: INFO :change_atom_theme: Clicking the choose theme button 
+2021-12-13 20:09:38,742: INFO :change_atom_theme: Clicking the open theme picker button 
+2021-12-13 20:09:38,776: INFO :change_atom_theme: Click the select theme dropdown 
+2021-12-13 20:09:38,834: INFO :change_atom_theme: Select a theme 
+2021-12-13 20:10:05,770: INFO :check_welcome_checkbox: Verifying the welcome checkbox is selected 
+2021-12-13 20:10:05,805: INFO :change_atom_theme: Clicking the choose theme button 
+2021-12-13 20:10:05,942: INFO :change_atom_theme: Clicking the open theme picker button 
+2021-12-13 20:10:05,976: INFO :change_atom_theme: Click the select theme dropdown 
+2021-12-13 20:10:06,050: INFO :change_atom_theme: Select a theme 
+2021-12-13 20:17:41,901: INFO :check_welcome_checkbox: Verifying the welcome checkbox is selected 
+2021-12-13 20:17:41,930: INFO :change_atom_theme: Clicking the choose theme button 
+2021-12-13 20:17:42,082: INFO :change_atom_theme: Clicking the open theme picker button 
+2021-12-13 20:17:42,121: INFO :change_atom_theme: Click the select theme dropdown 
+2021-12-13 20:17:42,195: INFO :change_atom_theme: Select a theme 
+2021-12-13 20:18:01,645: INFO :check_welcome_checkbox: Verifying the welcome checkbox is selected 
+2021-12-13 20:18:01,672: INFO :change_atom_theme: Clicking the choose theme button 
+2021-12-13 20:18:01,804: INFO :change_atom_theme: Clicking the open theme picker button 
+2021-12-13 20:18:01,836: INFO :change_atom_theme: Click the select theme dropdown 
+2021-12-13 20:18:01,895: INFO :change_atom_theme: Select a theme 
+2021-12-13 20:40:16,494: INFO :check_welcome_checkbox: Verifying the welcome checkbox is selected 
+2021-12-13 20:40:16,532: INFO :change_atom_theme: Clicking the choose theme button 
+2021-12-13 20:40:16,681: INFO :change_atom_theme: Clicking the open theme picker button 
+2021-12-13 20:40:16,715: INFO :change_atom_theme: Click the select theme dropdown 
+2021-12-13 20:40:16,772: INFO :change_atom_theme: Select a theme 
+2021-12-13 20:41:02,600: INFO :check_welcome_checkbox: Verifying the welcome checkbox is selected 
+2021-12-13 20:41:02,632: INFO :change_atom_theme: Clicking the choose theme button 
+2021-12-13 20:41:02,800: INFO :change_atom_theme: Clicking the open theme picker button 
+2021-12-13 20:41:02,838: INFO :change_atom_theme: Click the select theme dropdown 
+2021-12-13 20:41:02,920: INFO :change_atom_theme: Select a theme 
+2021-12-13 20:56:03,453: INFO :check_welcome_checkbox: Verifying the welcome checkbox is selected 
+2021-12-13 20:56:03,479: INFO :change_atom_theme: Clicking the choose theme button 
+2021-12-13 20:56:03,610: INFO :change_atom_theme: Clicking the open theme picker button 
+2021-12-13 20:56:03,628: INFO :change_atom_theme: Click the select theme dropdown 
+2021-12-13 20:56:03,722: INFO :change_atom_theme: Select a theme 
+2021-12-13 20:56:40,871: INFO :check_welcome_checkbox: Verifying the welcome checkbox is selected 
+2021-12-13 20:56:40,904: INFO :change_atom_theme: Clicking the choose theme button 
+2021-12-13 20:56:41,042: INFO :change_atom_theme: Clicking the open theme picker button 
+2021-12-13 20:56:41,078: INFO :change_atom_theme: Click the select theme dropdown 
+2021-12-13 20:56:41,133: INFO :change_atom_theme: Select a theme 

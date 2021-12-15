@@ -1,0 +1,24 @@
+2021-12-13 21:23:13,788: INFO :check_welcome_checkbox: Verifying the welcome checkbox is selected 
+2021-12-13 21:23:13,814: INFO :change_atom_theme: Clicking the choose theme button 
+2021-12-13 21:23:13,978: INFO :change_atom_theme: Clicking the open theme picker button 
+2021-12-13 21:23:14,019: INFO :change_atom_theme: Click the select theme dropdown 
+2021-12-13 21:23:14,087: INFO :change_atom_theme: Select a theme 
+2021-12-13 21:25:48,038: INFO :check_welcome_checkbox: Verifying the welcome checkbox is selected 
+2021-12-13 21:25:48,066: INFO :change_atom_theme: Clicking the choose theme button 
+2021-12-13 21:26:10,081: INFO :check_welcome_checkbox: Verifying the welcome checkbox is selected 
+2021-12-13 21:26:10,112: INFO :change_atom_theme: Clicking the choose theme button 
+2021-12-13 21:26:10,278: INFO :change_atom_theme: Clicking the open theme picker button 
+2021-12-13 21:26:10,321: INFO :change_atom_theme: Click the select theme dropdown 
+2021-12-13 21:26:10,434: INFO :change_atom_theme: Select a theme 
+2021-12-13 21:53:04,700: INFO :check_welcome_checkbox: Verifying the welcome checkbox is selected 
+2021-12-13 21:53:05,093: INFO :change_atom_theme: Clicking the choose theme button 
+2021-12-13 21:53:15,318: INFO :check_welcome_checkbox: Verifying the welcome checkbox is selected 
+2021-12-13 21:53:15,661: INFO :change_atom_theme: Clicking the choose theme button 
+2021-12-13 21:53:15,802: INFO :change_atom_theme: Clicking the open theme picker button 
+2021-12-13 21:53:15,840: INFO :change_atom_theme: Click the select theme dropdown 
+2021-12-13 21:53:15,916: INFO :change_atom_theme: Select a theme 
+2021-12-13 21:54:10,111: INFO :check_welcome_checkbox: Verifying the welcome checkbox is selected 
+2021-12-13 21:54:10,138: INFO :change_atom_theme: Clicking the choose theme button 
+2021-12-13 21:54:10,285: INFO :change_atom_theme: Clicking the open theme picker button 
+2021-12-13 21:54:10,326: INFO :change_atom_theme: Click the select theme dropdown 
+2021-12-13 21:54:10,397: INFO :change_atom_theme: Select a theme 

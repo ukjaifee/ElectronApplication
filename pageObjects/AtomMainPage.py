@@ -1,7 +1,7 @@
 from Components.HomePageComponent import HomePageComponent
 
 
-class ElectronAPIAPPMainPage:
+class AtomMainPage:
     def __init__(self, driver):
         self.driver=driver
 

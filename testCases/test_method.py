@@ -7,7 +7,7 @@ from utility.BaseClass import BaseClass
 
 class TestMethod(BaseClass):
 
-    def testMethod1(self, getData, getDataFromTuple):
+    def testMethod1_Atom(self, getData, getDataFromTuple):
         log = self.get_log()
         #print(getData["fn"])
         print(getDataFromTuple[0])
